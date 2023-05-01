@@ -1,8 +1,7 @@
-# Hello World    
+# Hello :wave:    
 
 I'am Javascript, React, Redux Developer and is praticed a bit of PHP, SQL, Symfony, Docker.  
 
-## Contact  
+## Contact  :point_down:
 
-*Gmail ->* valentinvanweydeveltt@gmail.com  
-[Twitter](https://twitter.com/valentinvw)
+valentinvanweydeveltt@gmail.com
