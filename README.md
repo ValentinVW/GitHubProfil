@@ -1,6 +1,11 @@
 # Hello :wave:    
 
-I'am Javascript, React, Redux Developer and is praticed a bit of PHP, SQL, Symfony, Docker.  
+I'am Developer
+
+Language : Javascript, PHP, SQL  
+Framework : React , Vue JS  
+Library : Redux, Axios, Express JS  
+Software : MySQL
 
 ## Contact  :point_down:
 
