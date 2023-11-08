@@ -3,7 +3,7 @@
 I'am Developer
 
 Language : Javascript, PHP, SQL  
-Framework : React , Vue JS  
+Framework : React , Vue JS, Symfony    
 Library : Redux, Axios, Express JS  
 Software : MySQL
 
